@@ -1,2 +1,2 @@
 # CV
-This repository contains my CV
+Have a look at my portfolio
